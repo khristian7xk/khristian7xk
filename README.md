@@ -1,11 +1,13 @@
 Wassup
+I'm currently trying to learn to code lol.
+You can ask me about any computer-related questions, as well as some Linux-specific questions.
+You can reach me through my email. - Kevinescandonrx7@gmail.com
+Fun Fact: I love Formula 1, Motorsports, cars, and my favorite artist is Luis Miguel 
 
 <!--
 **khristian7xk/khristian7xk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+Here are some ideas to get you I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
