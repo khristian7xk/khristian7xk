@@ -3,7 +3,7 @@
   <img src="https://profile-counter.glitch.me/{khristian7xk}/count.svg" alt="Visitor's Count" />
 </div>
 
-<img src="https://github.com/{khristian7xk}/{khristian7xk}/blob/main/software-developer.png" alt="https://i.pinimg.com/736x/81/e5/56/81e5560a76e253121a27717cee01f895.jpg">
+<img src="https://i.pinimg.com/{khristian7xk}/{khristian7xk}/736x/81/e5/56/81e5560a76e253121a27717cee01f895.jpg" alt="Luis Miguel">
 
 Hello
 
