@@ -9,11 +9,7 @@
 
 ### Hello..
 
-I'm currently learning to code.
-
-You can ask me about any computer-related questions, as well as some Linux-specific questions.
-
-Reach me through my email. - Kevinescandonrx7@gmail.com
+Reach me through my email. - kevinchristian.escandon@gmail.com
 
  <img alt="My Favorite Artist" src="https://i.pinimg.com/736x/81/e5/56/81e5560a76e253121a27717cee01f895.jpg">
 </picture>
